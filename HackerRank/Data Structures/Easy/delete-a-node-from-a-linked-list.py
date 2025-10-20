@@ -1,4 +1,4 @@
-# Problem: Delete a node in a linked list
+# Problem: Delete a node from a linked list
 # Platform: HackerRank
 # Difficulty: Easy
 # Link: https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
