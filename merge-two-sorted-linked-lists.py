@@ -3,7 +3,7 @@
 # Difficulty: Easy
 # Link: https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem
 # -----------------------------------------------------
-# Time Complexity: O(1)
+# Time Complexity: O(n + m) n + m = the two linked lists size sum
 # Space Complexity: O(1)
 # -----------------------------------------------------
 
