@@ -1,9 +1,9 @@
-# Problem: Insert a node at the tail of a linked list
+# Problem: Insert a node at the head of a linked list
 # Platform: HackerRank
 # Difficulty: Easy
-# Link: https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
+# Link: https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
 # -----------------------------------------------------
-# Time Complexity: O(n) q: 
+# Time Complexity: O(n)
 # Space Complexity: O(1)
 # -----------------------------------------------------
 
