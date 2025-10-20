@@ -4,7 +4,7 @@
 # Link: https://www.hackerrank.com/challenges/dynamic-array/problem
 # -----------------------------------------------------
 # Time Complexity: O(n + q) q: query ammount
-# Space Complexity: O(n + q)
+# Space Complexity: O(n + e)  e: ammount of elements (when we get into type 1 queries)
 # -----------------------------------------------------
 
 def dynamicArray(n, queries):
